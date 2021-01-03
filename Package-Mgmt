@@ -12,3 +12,10 @@ rpm -ivh htop
 	-v : verbose
 	-h : hash
 
+to install a new packages
+=========================
+rpm -ivh openssh-server
+
+to update the packages
+======================
+rpm -U openssh-server
